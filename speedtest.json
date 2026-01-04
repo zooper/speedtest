@@ -3,18 +3,18 @@
     "id": 1,
     "name": "router-ash01",
     "server": "http://147.160.138.32:8080/",
-    "dlURL": "garbage",
-    "ulURL": "empty",
-    "pingURL": "empty",
-    "getIpURL": "getIP"
+    "dlURL": "backend/garbage.php",
+    "ulURL": "backend/empty.php",
+    "pingURL": "backend/empty.php",
+    "getIpURL": "backend/getIP.php"
   },
   {
     "id": 2,
     "name": "edge-nyc01",
     "server": "http://45.128.36.242:8080/",
-    "dlURL": "garbage",
-    "ulURL": "empty",
-    "pingURL": "empty",
-    "getIpURL": "getIP"
+    "dlURL": "backend/garbage.php",
+    "ulURL": "backend/empty.php",
+    "pingURL": "backend/empty.php",
+    "getIpURL": "backend/getIP.php"
   }
 ]
